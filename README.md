@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. As stated previously... twice.
 Steps for deploying the project.
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training
