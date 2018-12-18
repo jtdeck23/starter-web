@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2014 Git.Training
+<<<<<<< HEAD
+	How many changes will there be
+=======
 	THese changes are from the feature branch before rebase
+>>>>>>> creating some problems
 -->
 <head>
 	<title>A very Respectful Website</title>
