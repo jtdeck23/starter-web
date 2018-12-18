@@ -14,6 +14,8 @@ Sample website with plenty of files for demos. As stated previously... twice.
 
 Steps for deploying the project.
 
+lorem   lasjdflalkslklsjdf clah
+
 ## How To Contribute
 
 Please fork this repository and the issue Pull
